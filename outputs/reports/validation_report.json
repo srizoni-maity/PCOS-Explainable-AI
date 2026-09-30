@@ -1,0 +1,153 @@
+{
+    "n_rows": 521,
+    "n_columns": 15,
+    "columns": [
+        "AgeGroup",
+        "Student",
+        "Residence",
+        "PCOS",
+        "Symptoms",
+        "PCOSAwareness",
+        "PackagedFood",
+        "FastFood",
+        "FoodLabel",
+        "TransFatAwareness",
+        "Exercise",
+        "Sleep",
+        "Stress",
+        "SugaryDrinks",
+        "MedicalHistory"
+    ],
+    "missing_values": {
+        "AgeGroup": 0,
+        "Student": 0,
+        "Residence": 0,
+        "PCOS": 0,
+        "Symptoms": 0,
+        "PCOSAwareness": 0,
+        "PackagedFood": 0,
+        "FastFood": 0,
+        "FoodLabel": 0,
+        "TransFatAwareness": 0,
+        "Exercise": 0,
+        "Sleep": 0,
+        "Stress": 0,
+        "SugaryDrinks": 0,
+        "MedicalHistory": 0
+    },
+    "invalid_values": {
+        "Residence": [
+            "Rural area Section",
+            "Semi-urban area",
+            "Urban area"
+        ],
+        "Symptoms": [
+            "Acne or oily skin",
+            "Acne or oily skin;Excess facial/body hair",
+            "Acne or oily skin;Excess facial/body hair;Irregular menstrual cycle",
+            "Acne or oily skin;Excess facial/body hair;Irregular menstrual cycle;Weight gain",
+            "Acne or oily skin;Excess facial/body hair;Weight gain",
+            "Acne or oily skin;Excess facial/body hair;Weight gain;Irregular menstrual cycle",
+            "Acne or oily skin;Irregular menstrual cycle",
+            "Acne or oily skin;Irregular menstrual cycle;Excess facial/body hair",
+            "Acne or oily skin;Irregular menstrual cycle;Excess facial/body hair;Weight gain",
+            "Acne or oily skin;Irregular menstrual cycle;Weight gain",
+            "Acne or oily skin;Weight gain",
+            "Acne or oily skin;Weight gain;Excess facial/body hair",
+            "Acne or oily skin;Weight gain;Excess facial/body hair;Irregular menstrual cycle",
+            "Acne or oily skin;Weight gain;Irregular menstrual cycle",
+            "Acne or oily skin;Weight gain;Irregular menstrual cycle;Excess facial/body hair",
+            "Excess facial/body hair",
+            "Excess facial/body hair;Acne or oily skin",
+            "Excess facial/body hair;Acne or oily skin;Irregular menstrual cycle",
+            "Excess facial/body hair;Acne or oily skin;Irregular menstrual cycle;Weight gain",
+            "Excess facial/body hair;Acne or oily skin;Weight gain",
+            "Excess facial/body hair;Irregular menstrual cycle",
+            "Excess facial/body hair;Irregular menstrual cycle;Acne or oily skin",
+            "Excess facial/body hair;Irregular menstrual cycle;Acne or oily skin;Weight gain",
+            "Excess facial/body hair;Irregular menstrual cycle;Weight gain",
+            "Excess facial/body hair;Irregular menstrual cycle;Weight gain;Acne or oily skin",
+            "Excess facial/body hair;Weight gain",
+            "Excess facial/body hair;Weight gain;Acne or oily skin;Irregular menstrual cycle",
+            "Excess facial/body hair;Weight gain;Irregular menstrual cycle",
+            "Excess facial/body hair;Weight gain;Irregular menstrual cycle;Acne or oily skin",
+            "Irregular menstrual cycle",
+            "Irregular menstrual cycle;Acne or oily skin",
+            "Irregular menstrual cycle;Acne or oily skin;Excess facial/body hair",
+            "Irregular menstrual cycle;Acne or oily skin;Excess facial/body hair;Weight gain",
+            "Irregular menstrual cycle;Acne or oily skin;Weight gain",
+            "Irregular menstrual cycle;Acne or oily skin;Weight gain;Excess facial/body hair",
+            "Irregular menstrual cycle;Excess facial/body hair",
+            "Irregular menstrual cycle;Excess facial/body hair;Acne or oily skin;Weight gain",
+            "Irregular menstrual cycle;Excess facial/body hair;Weight gain",
+            "Irregular menstrual cycle;Weight gain",
+            "Irregular menstrual cycle;Weight gain;Acne or oily skin",
+            "Irregular menstrual cycle;Weight gain;Excess facial/body hair",
+            "Irregular menstrual cycle;Weight gain;Excess facial/body hair;Acne or oily skin",
+            "None above",
+            "Weight gain;Acne or oily skin",
+            "Weight gain;Acne or oily skin;Excess facial/body hair",
+            "Weight gain;Acne or oily skin;Excess facial/body hair;Irregular menstrual cycle",
+            "Weight gain;Acne or oily skin;Irregular menstrual cycle",
+            "Weight gain;Acne or oily skin;Irregular menstrual cycle;Excess facial/body hair",
+            "Weight gain;Excess facial/body hair;Acne or oily skin",
+            "Weight gain;Excess facial/body hair;Acne or oily skin;Irregular menstrual cycle",
+            "Weight gain;Excess facial/body hair;Irregular menstrual cycle",
+            "Weight gain;Excess facial/body hair;Irregular menstrual cycle;Acne or oily skin",
+            "Weight gain;Irregular menstrual cycle",
+            "Weight gain;Irregular menstrual cycle;Acne or oily skin",
+            "Weight gain;Irregular menstrual cycle;Excess facial/body hair"
+        ],
+        "PCOSAwareness": [
+            "Not familiar at all",
+            "Somehow familiar"
+        ],
+        "PackagedFood": [
+            "1-2 times per week",
+            "3-5 times per week"
+        ],
+        "FastFood": [
+            "Occasionally",
+            "Rarely/Never",
+            "Several times per week"
+        ],
+        "FoodLabel": [
+            "Often"
+        ],
+        "TransFatAwareness": [
+            "Agree",
+            "Disagree",
+            "Strongly agree",
+            "Strongly disagree"
+        ],
+        "Exercise": [
+            "1-2 times per week",
+            "3-5 times per week",
+            "Daily",
+            "Rarely/Never"
+        ],
+        "Stress": [
+            "Very high",
+            "Very low"
+        ],
+        "SugaryDrinks": [
+            "Occasionally",
+            "Rarely/Never",
+            "Several times per week"
+        ],
+        "MedicalHistory": [
+            "High blood sugar or diabetes risk",
+            "High blood sugar or diabetes risk;High cholesterol",
+            "High blood sugar or diabetes risk;None of the above",
+            "High cholesterol",
+            "None of the above",
+            "Obesity/overweight",
+            "Obesity/overweight;High blood sugar or diabetes risk;High cholesterol",
+            "Obesity/overweight;None of the above"
+        ]
+    },
+    "class_distribution": {
+        "No": 340,
+        "Yes": 181
+    }
+}

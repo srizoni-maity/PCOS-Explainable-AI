@@ -1,0 +1,20 @@
+{
+    "feature_set": "HYBRID",
+    "selected_subset": "All",
+    "num_features": 32,
+    "selection_rule": [
+        "Highest Mean ROC-AUC",
+        "Highest Mean MCC",
+        "Highest Mean PR-AUC",
+        "Highest Mean F1",
+        "Lowest Mean Brier",
+        "Fewest Features"
+    ],
+    "metrics": {
+        "MeanROC": 0.8351111691628932,
+        "MeanPR": 0.727509099499279,
+        "MeanMCC": 0.5192278136269457,
+        "MeanF1": 0.6762734298747352,
+        "MeanBrier": 0.15921116089206308
+    }
+}

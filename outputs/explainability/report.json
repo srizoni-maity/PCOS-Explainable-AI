@@ -1,0 +1,49 @@
+{
+    "Model": "CatBoost",
+    "Samples": 105,
+    "NumFeatures": 32,
+    "TopFeature": "Symptom_IrregularCycle",
+    "TopFeatureMeanAbsSHAP": 0.6192056381168917,
+    "Top10Features": [
+        {
+            "Feature": "Symptom_IrregularCycle",
+            "MeanAbsSHAP": 0.6192056381168917
+        },
+        {
+            "Feature": "SymptomCount",
+            "MeanAbsSHAP": 0.5279741809738229
+        },
+        {
+            "Feature": "Exercise",
+            "MeanAbsSHAP": 0.3261022584517817
+        },
+        {
+            "Feature": "FastFoodScore",
+            "MeanAbsSHAP": 0.22090864963290574
+        },
+        {
+            "Feature": "FoodLabel",
+            "MeanAbsSHAP": 0.1791418971943041
+        },
+        {
+            "Feature": "Residence",
+            "MeanAbsSHAP": 0.17197050737707809
+        },
+        {
+            "Feature": "DietRiskScore",
+            "MeanAbsSHAP": 0.16448954778294891
+        },
+        {
+            "Feature": "TransFatAwareness",
+            "MeanAbsSHAP": 0.15924001776468855
+        },
+        {
+            "Feature": "AgeGroup",
+            "MeanAbsSHAP": 0.13355528605680528
+        },
+        {
+            "Feature": "Symptom_Acne",
+            "MeanAbsSHAP": 0.12613428416247272
+        }
+    ]
+}

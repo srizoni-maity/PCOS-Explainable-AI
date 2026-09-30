@@ -1,0 +1,9 @@
+random_seed: 42
+
+paths:
+  raw_data: data/raw/questionnaire.xlsx
+  processed_data: data/processed/cleaned_dataset.csv
+  validation_report: outputs/reports/validation_report.json
+  audit_log: outputs/logs/data_audit.txt
+
+target_column: PCOS

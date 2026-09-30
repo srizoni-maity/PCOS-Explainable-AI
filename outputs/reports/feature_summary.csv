@@ -1,0 +1,16 @@
+Feature,UniqueCount,Missing
+AgeGroup,3,0
+Student,2,0
+Residence,3,0
+PCOS,2,0
+Symptoms,56,0
+PCOSAwareness,3,0
+PackagedFood,4,0
+FastFood,4,0
+FoodLabel,4,0
+TransFatAwareness,4,0
+Exercise,4,0
+Sleep,4,0
+Stress,4,0
+SugaryDrinks,4,0
+MedicalHistory,8,0

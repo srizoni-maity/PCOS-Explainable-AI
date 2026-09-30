@@ -1,0 +1,38 @@
+{
+    "Symptoms": [
+        "SymptomCount",
+        "Symptom_IrregularCycle",
+        "Symptom_Acne",
+        "Symptom_Hirsutism",
+        "Symptom_WeightGain",
+        "Symptom_None"
+    ],
+    "Diet": [
+        "PackagedFood",
+        "PackagedFoodScore",
+        "FastFood",
+        "FastFoodScore",
+        "FoodLabel",
+        "FoodLabelScore",
+        "DietRiskScore",
+        "TransFatAwareness"
+    ],
+    "Lifestyle": [
+        "Exercise",
+        "ExerciseScore",
+        "Sleep",
+        "SleepScore",
+        "Stress",
+        "StressScore",
+        "SugaryDrinks",
+        "LifestyleRiskScore"
+    ],
+    "Awareness": [
+        "PCOSAwareness",
+        "PCOSAwarenessScore"
+    ],
+    "MedicalHistory": [
+        "MedicalHistory",
+        "MedicalRiskScore"
+    ]
+}

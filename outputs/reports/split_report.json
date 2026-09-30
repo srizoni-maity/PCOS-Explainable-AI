@@ -1,0 +1,11 @@
+{
+    "training_samples": 416,
+    "testing_samples": 105,
+    "features": 33,
+    "training_positive": 145,
+    "training_negative": 271,
+    "testing_positive": 36,
+    "testing_negative": 69,
+    "test_size": 0.2,
+    "random_state": 42
+}
